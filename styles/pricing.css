@@ -103,7 +103,7 @@
             margin-inline: auto;
         }
 
-        & .premium card {
+        & .premium .card {
             padding-bottom: 6rem;
         }
 
